@@ -20,4 +20,4 @@ Interview questions for students who are preparing for placements.
    
 It is completely responsive website, to provide smooth experience...
 
-Visit our website at : https://pbl-edu-tip-git-main-kshah1116.vercel.app/
+Visit our website at : https://pbl-edu-tip.vercel.app/
